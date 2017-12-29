@@ -1,0 +1,29 @@
+{
+  "name": "bcoin-mongo-api",
+  "version": "1.0.1",
+  "description": "Mongodb api for Bcoin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tenthirtyone/bcoin-mongo-models.git"
+  },
+  "author": "Alex Sherbuck",
+  "contributors": [
+    {
+      "name": "Gordon Hall",
+      "email": "",
+      "url": ""
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tenthirtyone/bcoin-mongo-models/issues"
+  },
+  "homepage": "https://github.com/tenthirtyone/bcoin-mongo-models#readme",
+  "dependencies": {
+    "mongoose": "^4.13.2"
+  }
+}
